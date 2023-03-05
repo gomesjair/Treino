@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(47, 45, 45);
+}
+
+.training {
+    color: white;
+    margin-left: 47%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.days {
+    
+    margin-left: 10%;
+    transform: none;
+    border-radius: 6px;
+    border-color: black;
+    border-style: 2px;
+    cursor: pointer;
+}
+
+.days:hover {
+    background: rgb(103, 107, 108);
+}
+
+.days a {
+    color: black;
+    text-decoration: none;
+}
+
